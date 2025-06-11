@@ -1,3 +1,75 @@
-Testing 
-Testing 123
-Changelog
+New Characters Added
+Rozwel OG joins the roster with a unique mix of swift strikes and heavy counters.
+
+Sasin-Neo introduces fast-paced combos and high mobility.
+
+Nightmare White Wolf brings brutal grappling moves and a fearsome presence.
+
+Akira is added with balanced offense and solid zoning options.
+
+Kyo-213_new returns with updated special moves and enhanced super combos.
+
+Character Updates and Balancing
+RyuXvsSF
+Improved Hadouken startup frames (from 12 to 10 frames) for better pressure.
+
+Shoryuken damage reduced slightly to balance jump-ins.
+
+ChunliXvsSF
+Increased speed on Lightning Kick, now easier to combo.
+
+Fixed a bug where her Spinning Bird Kick would sometimes miss crouching opponents.
+
+GuileXvsSF
+Sonic Boom projectile speed slightly increased.
+
+Flash Kick invincibility frames extended by 2 frames.
+
+CammyXvsSF
+Added new chain combo allowing better follow-up after Spiral Arrow.
+
+Reduced recovery time on Cannon Spike.
+
+KenXvsSF
+Dragon Punch now hits airborne opponents consistently.
+
+Shoryuken invincibility frames improved for anti-air use.
+
+Rasetsumaru
+Adjusted hitboxes on Slash attack to improve counter potential.
+
+New taunt animation added.
+
+Nakoruru
+Enhanced arrow projectile speed for zoning strategies.
+
+Fixed combo timing on air attacks.
+
+Yang
+Increased damage on Rekka Ken series.
+
+Added new air combo for extended juggle potential.
+
+Yoshitora
+Fixed a visual glitch during his special move.
+
+Slightly reduced cooldown on teleport dodge.
+
+Zank
+New command grab added to increase mix-up options.
+
+Adjusted stamina to make matches more strategic.
+
+Bug Fixes
+Fixed several clipping issues in character models during close-range combat.
+
+Corrected input buffering inconsistencies across multiple characters.
+
+Fixed some audio sync problems during special move animations.
+
+UI and General Improvements
+Updated character select screen art with new splash images.
+
+Improved frame data display for training mode.
+
+Added a new "Combo Challenge" mode featuring select characters from the 2nd and 3rd row.
